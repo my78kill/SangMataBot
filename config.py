@@ -13,9 +13,10 @@ BOT_USERNAME = "Abusedgaurdbot"  # Replace with your bot's username
 COMMAND_PREFIXES = ["/", ".", ",", "!", "#"]
 
 # MongoDB configuration
-MONGO_URI = "mongodb+srv://gojosaturo143k_db_user:hacker14rk@cluster0.sajt3dn.mongodb.net/?appName=Cluster0"  # Replace with your MongoDB URI
+MONGO_URI = "mongodb+srv://fourarmsrk_db_user:hacker14rk@cluster0.rvel4sk.mongodb.net/?appName=Cluster0"  # Replace with your MongoDB URI
 MONGO_DB = "sangmata"  # Replace with your MongoDB database name
 
 # Sudo users (list of user IDs authorized for admin commands)
 
 SUDO_USERS = [8721663490]  # Replace with actual sudo user IDs
+
