@@ -6,8 +6,8 @@ import logging
 import os
 
 # MongoDB configuration
-MONGO_URI = "YOUR_DB_URL"
-MONGO_DB = "YOUR_DB_NAME"
+MONGO_URI = "mongodb+srv://fourarmsrk_db_user:hacker14rk@cluster0.rvel4sk.mongodb.net/?appName=Cluster0"
+MONGO_DB = "sangmata"
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -105,3 +105,4 @@ def get_user_stats():
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
     app.run(host='0.0.0.0', port=port)
+
