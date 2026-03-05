@@ -2,19 +2,20 @@
 # Channel t.me/TheSmartDev
 
 # Telegram API credentials
-API_ID = 22884  # Replace with your API ID
-API_HASH = "c3f491cf93342ef8"  # Replace with your API Hash
-BOT_TOKEN = "817438SqvqUYsZlg3BY"  # Replace with your Bot Token
+API_ID = 30952267  # Replace with your API ID
+API_HASH = "d87301a4bf06b8c040db8628900271cd"  # Replace with your API Hash
+BOT_TOKEN = "8637892735:AAH2WH2CnddS-2BYZ4Rt4JmoPh6fwXo6HyY"  # Replace with your Bot Token
 
 # Bot username (without @ symbol)
-BOT_USERNAME = "ItsSataBot"  # Replace with your bot's username
+BOT_USERNAME = "Abusedgaurdbot"  # Replace with your bot's username
 
 # Command prefixes for bot commands
 COMMAND_PREFIXES = ["/", ".", ",", "!", "#"]
 
 # MongoDB configuration
-MONGO_URI = ""  # Replace with your MongoDB URI
-MONGO_DB = ""  # Replace with your MongoDB database name
+MONGO_URI = "mongodb+srv://gojosaturo143k_db_user:hacker14rk@cluster0.sajt3dn.mongodb.net/?appName=Cluster0"  # Replace with your MongoDB URI
+MONGO_DB = "sangmata"  # Replace with your MongoDB database name
 
 # Sudo users (list of user IDs authorized for admin commands)
-SUDO_USERS = [730912, 17837305]  # Replace with actual sudo user IDs
+
+SUDO_USERS = [8721663490]  # Replace with actual sudo user IDs
